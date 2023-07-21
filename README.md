@@ -10,3 +10,6 @@ I first tried using a for and a while loop to see if it'd work if I loop through
 
 This exercise surprisingly only took 4-5 minutes to complete because it is very similar to the previous one. I appended a string to the front of the sentence using concatenation, converted all letters to lowercase, and used the ```replace``` method to remove the ending exclamation mark.
 
+🌼 03 - [Alternating Caps](https://github.com/ivavay/scrimba-interview-challenges/tree/main/02_whisper-function)
+
+I got to work for the most part except I couldn't figure out how the output string has ```undefined``` attached to it in the front. The goal was to take a string and convert each letter into alternating lowercase and uppercase. I used an if/else inside a while loop for this. 
