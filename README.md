@@ -13,3 +13,7 @@ This exercise surprisingly only took 4-5 minutes to complete because it is very 
 🌼 03 - [Alternating Caps](https://github.com/ivavay/scrimba-interview-challenges/tree/main/03_alternating-caps)
 
 I got to work for the most part except I couldn't figure out how the output string has ```undefined``` attached to it in the front. The goal was to take a string and convert each letter into alternating lowercase and uppercase. I used an if/else inside a while loop for this. 
+
+🌼 04 - [toTitleCase](https://github.com/ivavay/scrimba-interview-challenges/tree/main/04_toTitleCase)
+
+I was able to figure out the first part, which was to use ```slice``` to make the first letter of a word capitalized. However, I couldn't get the second part where you make each word of a sentence string capitalized. I tried to see if I could use the index of a string to detect the letter after the blank space ```" "``` via ```str[i+1]``` but that didn't work either. I took at look at the solution and it seems like the ```map``` method is involved in looping as well as putting the words in a new array. 
