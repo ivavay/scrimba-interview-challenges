@@ -17,3 +17,7 @@ I got to work for the most part except I couldn't figure out how the output stri
 🌼 04 - [toTitleCase](https://github.com/ivavay/scrimba-interview-challenges/tree/main/04_toTitleCase)
 
 I was able to figure out the first part, which was to use ```slice``` to make the first letter of a word capitalized. However, I couldn't get the second part where you make each word of a sentence string capitalized. I tried to see if I could use the index of a string to detect the letter after the blank space ```" "``` via ```str[i+1]``` but that didn't work either. I took at look at the solution and it seems like the ```map``` method is involved in looping as well as putting the words in a new array. 
+
+🌼 05 - [Definitely Not FizzBuzz](https://github.com/ivavay/scrimba-interview-challenges/tree/main/05_definitely-not-fizzbuzz)
+
+This exercise, which was definitely similar to FizzBuzz, also just took 5-10 minutes to complete. I used a for loop and if/else conditional for this. The ```%``` modulo was the highlight of this code block. 
