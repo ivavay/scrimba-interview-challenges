@@ -21,3 +21,7 @@ I was able to figure out the first part, which was to use ```slice``` to make th
 🌼 05 - [Definitely Not FizzBuzz](https://github.com/ivavay/scrimba-interview-challenges/tree/main/05_definitely-not-fizzbuzz)
 
 This exercise, which was definitely similar to FizzBuzz, also just took 5-10 minutes to complete. I used a for loop and if/else conditional for this. The ```%``` modulo was the highlight of this code block. 
+
+🌼 06 - [Emojify](https://github.com/ivavay/scrimba-interview-challenges/tree/main/06_emojify)
+
+The first part of the exercise was to check if the word is in the given object, and turn it into an emoji if it comes with in this form ```:flower:```. The second part was to use the function in the first part to check if a word in a phrase can be emojifid. I learned some new things i.e. how to access the key-value pair in an object. I also learned how to use ```.split(" ")``` split method to separate each word in a phrase into its own item in an array. This was the funnest challenge yet. 
