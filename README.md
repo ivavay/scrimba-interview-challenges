@@ -29,3 +29,7 @@ The first part of the exercise was to check if the word is in the given object, 
 🌼 07 - [Anagram](https://github.com/ivavay/scrimba-interview-challenges/tree/main/07_anagram)
 
 Thanks to the hints from the prompt, I was able to complete this exercise in under 10 minutes. The ```sort()``` method was monumental in sorting the string turned array in alphabetical order, which could then be compared between the two strings to see if the letters match and therefore an anagram. 
+
+🌼 08 - [Decode Alien Message](https://github.com/ivavay/scrimba-interview-challenges/tree/main/08_decode-alien-message)
+
+This was a fun one! Learned how to use the ```reverse()``` method on strings and got more comfortable calling functions inside of functions. The goal was to reverse each character in a string of words and array of strings. 
