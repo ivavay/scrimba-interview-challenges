@@ -25,3 +25,7 @@ This exercise, which was definitely similar to FizzBuzz, also just took 5-10 min
 🌼 06 - [Emojify](https://github.com/ivavay/scrimba-interview-challenges/tree/main/06_emojify)
 
 The first part of the exercise was to check if the word is in the given object, and turn it into an emoji if it comes with in this form ```:flower:```. The second part was to use the function in the first part to check if a word in a phrase can be emojifid. I learned some new things i.e. how to access the key-value pair in an object. I also learned how to use ```.split(" ")``` split method to separate each word in a phrase into its own item in an array. This was the funnest challenge yet. 
+
+🌼 07 - [Anagram](https://github.com/ivavay/scrimba-interview-challenges/tree/main/07_anagram)
+
+Thanks to the hints from the prompt, I was able to complete this exercise in under 10 minutes. The ```sort()``` method was monumental in sorting the string turned array in alphabetical order, which could then be compared between the two strings to see if the letters match and therefore an anagram. 
