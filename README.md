@@ -37,3 +37,7 @@ This was a fun one! Learned how to use the ```reverse()``` method on strings and
 🌼 09 - [Palindromes](https://github.com/ivavay/scrimba-interview-challenges/tree/main/09_palindromes)
 
 The goal of this challenge was to see if a word is a palindrome, that is, a word that is spelled the same backward and forward. I used what I had written in the last challenge and the puzzle was solved in a heartbeat! 
+
+🌼 10 - [Save Grandpa's Passwords](https://github.com/ivavay/scrimba-interview-challenges/tree/main/10_save-grandpa's-passwords)
+
+The goal was to remove duplicates in a string. I learned how to use the ```[...new Set(chars)]``` set to convert the string to a unique set of values in an array. Then I removed the commas in between using ```replaceAll()``` method. Then, it was done :)  
