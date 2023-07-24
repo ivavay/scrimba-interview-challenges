@@ -33,3 +33,7 @@ Thanks to the hints from the prompt, I was able to complete this exercise in und
 🌼 08 - [Decode Alien Message](https://github.com/ivavay/scrimba-interview-challenges/tree/main/08_decode-alien-message)
 
 This was a fun one! Learned how to use the ```reverse()``` method on strings and got more comfortable calling functions inside of functions. The goal was to reverse each character in a string of words and array of strings. 
+
+🌼 09 -[Palindromes](https://github.com/ivavay/scrimba-interview-challenges/tree/main/09_palindromes)
+
+The goal of this challenge was to see if a word is a palindrome, that is, a word that is spelled the same backward and forward. I used what I had written in the last challenge and the puzzle was solved in a heartbeat! 
