@@ -46,6 +46,6 @@ The goal was to remove duplicates in a string. I learned how to use the ```[...n
 
 This was an exercise in which the program had to count how many letters (case-agnostic) there are in a string (excluding the spaces). 
 
-🌼 12 - [Reipe Book](https://github.com/ivavay/scrimba-interview-challenges/tree/main/12_recipe-book)
+🌼 12 - [Recipe Book](https://github.com/ivavay/scrimba-interview-challenges/tree/main/12_recipe-book)
 
-This was similar to the password exercise in which I removed duplicates from a string, except this time it's an array. 
+This was similar to the password exercise in which I removed duplicates from a string, except this time it's an array. ```[... new Set(char)]``` is so useful!
