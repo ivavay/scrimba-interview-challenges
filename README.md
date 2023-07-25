@@ -45,3 +45,7 @@ The goal was to remove duplicates in a string. I learned how to use the ```[...n
 🌼 11 - [Frequency of Letters](https://github.com/ivavay/scrimba-interview-challenges/tree/main/11_frequency-of-letters)
 
 This was an exercise in which the program had to count how many letters (case-agnostic) there are in a string (excluding the spaces). 
+
+🌼 12 - [Reipe Book](https://github.com/ivavay/scrimba-interview-challenges/tree/main/12_recipe-book)
+
+This was similar to the password exercise in which I removed duplicates from a string, except this time it's an array. 
