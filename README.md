@@ -58,3 +58,7 @@ This one was tough — I got the first part to work but not the second. The fir
 
 This one was a breeze, it was to sum up the integers in an array. 
 
+🌼 15 - [Pizza Night](https://github.com/ivavay/scrimba-interview-challenges/tree/main/15_pizza-night)
+
+The goal was to convert an object to an array and then loop through that array using ```slice``` to get rid of the commas, extra spaces to form a string.
+
