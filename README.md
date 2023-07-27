@@ -53,3 +53,8 @@ This was similar to the password exercise in which I removed duplicates from a s
 🌼 13 - [Pumpkin's Prizes](https://github.com/ivavay/scrimba-interview-challenges/tree/main/13_pumpkins_prizes)
 
 This one was tough — I got the first part to work but not the second. The first part was to flatten out a nested string-based array while the second part was to flatten out a nested numbers array. 
+
+🌼 14 - [Count the Scrimba Students](https://github.com/ivavay/scrimba-interview-challenges/tree/main/14_sum-of-array) 
+
+This one was a breeze, it was to sum up the integers in an array. 
+
