@@ -66,3 +66,7 @@ The goal was to convert an object to an array and then loop through that array u
 
 The goal was to take a nested array of objects and return an array of modified objects with combined full names and birthdays. I used the ```toDateString()``` method on new Date object to make it work. Also used the map method to map over items in objects.
 
+🌼 17 - [Free Podcasts](https://github.com/ivavay/scrimba-interview-challenges/tree/main/17_free-podcasts)
+
+Pretty straightforward with the ```map``` and ```filter``` methods to filter out so that there's only the free podcasts in the new array.
+
