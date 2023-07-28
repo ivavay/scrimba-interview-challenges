@@ -62,3 +62,7 @@ This one was a breeze, it was to sum up the integers in an array.
 
 The goal was to convert an object to an array and then loop through that array using ```slice``` to get rid of the commas, extra spaces to form a string.
 
+🌼 16 - [Totally Private Data Farm](https://github.com/ivavay/scrimba-interview-challenges/tree/main/016_modify-objects) 
+
+The goal was to take a nested array of objects and return an array of modified objects with combined full names and birthdays. I used the ```toDateString()``` method on new Date object to make it work. Also used the map method to map over items in objects.
+
