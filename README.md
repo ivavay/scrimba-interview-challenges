@@ -70,3 +70,8 @@ The goal was to take a nested array of objects and return an array of modified o
 
 Pretty straightforward with the ```map``` and ```filter``` methods to filter out so that there's only the free podcasts in the new array.
 
+
+🌼 18 - [Candy Sale](https://github.com/ivavay/scrimba-interview-challenges/tree/main/18_filter-candies)
+
+Same as above but used ```map``` twice.
+
