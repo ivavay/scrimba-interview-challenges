@@ -75,3 +75,7 @@ Pretty straightforward with the ```map``` and ```filter``` methods to filter out
 
 Same as above but used ```map``` twice.
 
+🌼 19 - [Shopping Cart](https://github.com/ivavay/scrimba-interview-challenges/tree/main/19_shopping-cart)
+
+Took a week-long break from coding and came back to this so a little rusty. Used ```reduce``` method for the first time. May be good for summing up the total.
+
